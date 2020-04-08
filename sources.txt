@@ -1,0 +1,16 @@
+Sources:
+
+For a list of street abreviations,
+https://pe.usps.com/text/pub28/28apc_002.htm
+
+For any search related to locations and information related to the city,
+maps.google.com
+
+For a standard list of map features such as amenity, shops, offices types,
+http://wiki.openstreetmap.org/wiki/Map_Features
+
+and then clicking on the corresponding feature for a list of that feature such as for amenity it would be:
+http://wiki.openstreetmap.org/wiki/Map_Features#Amenity
+
+For any general coding reladed questions, I made use of the website:
+https://stackoverflow.com/
